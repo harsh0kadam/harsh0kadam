@@ -2,7 +2,7 @@
 <img src="https://media3.giphy.com/media/SH3ubtnact2N4CzbNu/giphy.gif?cid=ecf05e47aigqdbci58y29hrmjt07npq7d7j6w14r9k47ja6q&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="900" alt="">
 <h1 align="center">Hi 👋, I'm Harsh Kadam</h1>
 <h3 align="center">A passionate MERN Stack developer || Full Stack developer|| frontend developer from India</h3>
-<img src="https://s.iq.com/184cXG-ae" width="400" align="right" alt="">
+<img src="https://s.iq.com/184cXG-ae" width="300"  align="right" alt="">
 
 
 
@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [lets upgrade](https://github.com/harsh0kadam/Harsh-s--E-commerce.git)
 
-- 🌱 I’m currently learning **Next.js,Nest.js,python**
+- 🌱 I’m currently learning **Next.js , Nest.js , python**
 
 - 👯 I’m looking to collaborate on [E-commerce](https://github.com/harsh0kadam/E-commerce)
 
