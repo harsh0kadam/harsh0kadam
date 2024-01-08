@@ -1,7 +1,8 @@
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/SH3ubtnact2N4CzbNu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/RawFury-anime-wolfstride-game-SH3ubtnact2N4CzbNu">via GIPHY</a></p>
+
+<img src="https://media3.giphy.com/media/SH3ubtnact2N4CzbNu/giphy.gif?cid=ecf05e47aigqdbci58y29hrmjt07npq7d7j6w14r9k47ja6q&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="">
 <h1 align="center">Hi 👋, I'm Harsh Kadam</h1>
 <h3 align="center">A passionate MERN Stack developer || Full Stack developer|| frontend developer from India</h3>
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/YcsPkyAIkfxegkjXck" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/SWAG-swag-YcsPkyAIkfxegkjXck">via GIPHY</a></p>
+<img src="https://pixabay.com/videos/anime-sparkle-butterfly-84574/" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh0kadam&label=Profile%20views&color=0e75b6&style=flat" alt="harsh0kadam" /> </p>
 
