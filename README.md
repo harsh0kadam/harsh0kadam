@@ -2,17 +2,18 @@
 <img src="https://media3.giphy.com/media/SH3ubtnact2N4CzbNu/giphy.gif?cid=ecf05e47aigqdbci58y29hrmjt07npq7d7j6w14r9k47ja6q&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="900" alt="">
 <h1 align="center">Hi 👋, I'm Harsh Kadam</h1>
 <h3 align="center">A passionate MERN Stack developer || Full Stack developer|| frontend developer from India</h3>
-<img src="https://s.iq.com/184cXG-ae" width="300"  align="right" alt="">
+<img src="https://i.pinimg.com/originals/c7/63/19/c76319fb38068493dd49d2229619c0e4.gif" width="300"  height="300"  align="right" alt="">
 
 
 
-<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="harsh0kadam" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh0kadam&label=Profile%20views&color=0e75b6&style=flat" alt="harsh0kadam" /> </p>
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/_harshit_333" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/_harshit_333?logo=twitter&style=for-the-badge" alt="https://twitter.com/_harshit_333" /></a> </p>
 
 - 🔭 I’m currently working on [lets upgrade](https://github.com/harsh0kadam/Harsh-s--E-commerce.git)
 
-- 🌱 I’m currently learning **Next.js , Nest.js , python**
+- 🌱 I’m currently learning **Next.js,Nest.js,python**
 
 - 👯 I’m looking to collaborate on [E-commerce](https://github.com/harsh0kadam/E-commerce)
 
